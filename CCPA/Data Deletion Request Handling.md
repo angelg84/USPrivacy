@@ -1,5 +1,7 @@
 # Data Deletion Request Handling
 
+## The US Privacy signal will be deprecated on September 30, 2023, however the Data Deletion Request Handling mechanism will retain continued support beyond September 30th. We recommend that all users of the US Privacy String adopt the Global Privacy Platform well in advance of the deprecation date.
+
 ## Summary
 
 This specification defines the Data Deletion Request (DDR), which is the mechanism by which the IAB CCPA Compliance Framework complies with Section 1798.105(c) of the California Consumer Protection Act (CCPA) which states _"[a] business that receives a verifiable consumer request from a consumer to delete the consumer's personal information [shall] . . direct any service providers to delete the consumer's personal information from their records."_  The DDR is a technical contract between a Publisher and Vendors in order to enable a consumer on a Publisher's digital property to direct Vendors to delete the consumer's personal information from their records.  As stated, the DDR exists primarily to comply with CCPA but may be used for deletion requests outside the domain of CCPA governance.
