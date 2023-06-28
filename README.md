@@ -1,4 +1,7 @@
 # USPrivacy
+## The US Privacy signal will be deprecated on September 30, 2023. We recommend that all users of the US Privacy String adopt the Global Privacy Platform well in advance of the deprecation date
+
+
 Technical specifications to support US Privacy initiatives, starting with CCPA (California Consumer Privacy Act)
 
 ### About IAB CCPA Compliance Framework
@@ -18,10 +21,7 @@ More information about the Framework is available at https://iab.com/guidelines/
 
 ### License
 
-U.S. Privacy String and API technical specifications governed by the IAB Tech Lab is licensed
-under a Creative Commons Attribution 3.0 License. To view a copy of this license, visit
-https://creativecommons.org/licenses/by/3.0/ or write to Creative Commons, 171 Second Street, Suite
-300, San Francisco, CA 94105, USA.
+U.S. Privacy String and API technical specifications governed by the IAB Tech Lab is licensed under a Creative Commons Attribution 3.0 License. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/ or write to Creative Commons, 171 Second Street, Suite 300, San Francisco, CA 94105, USA. By submitting an idea, specification, software code, document, file, or other material (each, a “Submission”) to the USPrivacy repository, to any member of the Global Privacy Working Group, or to the IAB Tech Lab in relation to USPrivacy you agree to and hereby license such Submission to the IAB Tech Lab under the Creative Commons Attribution 3.0 License and agree that such Submission may be used and made available to the public under the terms of such license. If you are a member of the IAB Tech Lab then the terms and conditions of the IPR Policy <<https://iabtechlab.com/ipr-iab-techlab/acknowledge-ipr/>> may also be applicable to your Submission, and if the IPR Policy is applicable to your Submission then the IPR Policy will control in the event of a conflict between the Creative Commons Attribution 3.0 License and the IPR Policy.
 
 ### Disclaimer
 
