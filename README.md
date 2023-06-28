@@ -1,5 +1,6 @@
 # USPrivacy
-## The US Privacy signal will be deprecated on September 30, 2023. We recommend that all users of the US Privacy String adopt the Global Privacy Platform well in advance of the deprecation date
+
+## The US Privacy signal will be deprecated on September 30, 2023. We recommend that all users of the US Privacy String adopt the Global Privacy Platform well in advance of the deprecation date.
 
 
 Technical specifications to support US Privacy initiatives, starting with CCPA (California Consumer Privacy Act)
