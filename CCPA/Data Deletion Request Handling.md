@@ -1,6 +1,6 @@
 # Data Deletion Request Handling
 
-## The US Privacy signal will be deprecated on September 30, 2023, however the Data Deletion Request Handling mechanism will retain continued support beyond September 30th. We recommend that all users of the US Privacy String adopt the [Global Privacy Platform](https://github.com/InteractiveAdvertisingBureau/Global-Privacy-Platform) well in advance of the deprecation date.
+## The US Privacy signal will be deprecated on January 31, 2024. We recommend that all users of the US Privacy String adopt the [Global Privacy Platform](https://github.com/InteractiveAdvertisingBureau/Global-Privacy-Platform) well in advance of the deprecation date.
 
 ## Summary
 
