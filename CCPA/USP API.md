@@ -1,7 +1,7 @@
 ![iab tech lab](https://user-images.githubusercontent.com/19175352/38649177-0d37d17c-3daa-11e8-8934-f0fb47919716.png)
 # US Privacy User Signal Mechanism “USP API”
 
-## The US Privacy signal will be deprecated on September 30, 2023. We recommend that all users of the US Privacy String adopt the [Global Privacy Platform](https://github.com/InteractiveAdvertisingBureau/Global-Privacy-Platform) well in advance of the deprecation date.
+## The US Privacy signal will be deprecated on January 31, 2024. We recommend that all users of the US Privacy String adopt the [Global Privacy Platform](https://github.com/InteractiveAdvertisingBureau/Global-Privacy-Platform) well in advance of the deprecation date.
 
 ### **(CCPA Compliance Mechanism)**
 **Final Version 1 | March 2020**
